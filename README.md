@@ -38,5 +38,19 @@ Matplotlib Visualization / Test Reports
 
 ---
 
+## Tech Stack 
+
+Python 3.9+ 
+
+matplotlib 
+
+pytest 
+
+Virtual Environment (venv) 
+
+GitHub Version Control
+
+---
+
 ## Author
 Aditya Dipak Chavan
